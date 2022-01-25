@@ -1,0 +1,17 @@
+body,
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	width: 100vw;
+	padding: 50px;
+	display: flex;
+	justify-content: center;
+}
+
+svg {
+	padding: 10px;
+}
